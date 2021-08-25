@@ -1,0 +1,40 @@
+{
+  "Paladin": {
+    "Aura_Mastery": 123456789,
+    "Avenging_Wrath": 1234556789,
+    "Ashen_Hollow": 123456789
+  },
+  "Shaman": {
+
+  },
+  "Priest": {
+
+  },
+  "Monk": {
+
+  },
+  "Druid": {
+
+  },
+  "Death_Knight": {
+
+  },
+  "Demon_Hunter": {
+
+  },
+  "Warrior": {
+
+  },
+  "Hunter": {
+
+  },
+  "Mage": {
+
+  },
+  "Warlock": {
+
+  },
+  "Rogue": {
+
+  }
+}
